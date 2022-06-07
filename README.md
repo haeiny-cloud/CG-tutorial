@@ -201,3 +201,4 @@ radius = 50
 ## 참고 문헌 리스트
 1. https://velog.io/@9rganizedchaos/Three.js-journey-%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8-15
 2. https://threejs.org/docs/index.html?q=lights#api/en/lights/shadows/LightShadow
+- 해당 문서에서 사용된 stackoverflow site의 사진은 stackoverflow가 CC BY-SA 3.0 라이센스 기반이라는 것을 확인하였고, 원본 사진 링크를 첨부하였으며 사진을 임의로 수정하지 않았음을 밝힙니다.
